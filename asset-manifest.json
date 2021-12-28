@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/ReactSPA/static/css/main.4b2bc315.css",
-    "main.js": "/ReactSPA/static/js/main.0006bd9c.js",
-    "static/js/787.fa5a747c.chunk.js": "/ReactSPA/static/js/787.fa5a747c.chunk.js",
-    "static/media/outerspace-58.gif": "/ReactSPA/static/media/outerspace-58.1e4b43425263f27fcb35.gif",
-    "index.html": "/ReactSPA/index.html",
-    "main.4b2bc315.css.map": "/ReactSPA/static/css/main.4b2bc315.css.map",
-    "main.0006bd9c.js.map": "/ReactSPA/static/js/main.0006bd9c.js.map",
-    "787.fa5a747c.chunk.js.map": "/ReactSPA/static/js/787.fa5a747c.chunk.js.map"
+    "main.css": "./ReactSPA/static/css/main.4b2bc315.css",
+    "main.js": "./ReactSPA/static/js/main.0006bd9c.js",
+    "static/js/787.fa5a747c.chunk.js": "./ReactSPA/static/js/787.fa5a747c.chunk.js",
+    "static/media/outerspace-58.gif": "./ReactSPA/static/media/outerspace-58.1e4b43425263f27fcb35.gif",
+    "index.html": "./ReactSPA/index.html",
+    "main.4b2bc315.css.map": "./ReactSPA/static/css/main.4b2bc315.css.map",
+    "main.0006bd9c.js.map": "./ReactSPA/static/js/main.0006bd9c.js.map",
+    "787.fa5a747c.chunk.js.map": "./ReactSPA/static/js/787.fa5a747c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b2bc315.css",
